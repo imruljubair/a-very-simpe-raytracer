@@ -1,1 +1,1 @@
-# a-very-simpe-raytracer
+# A very simple raytracer (fall 2014)
