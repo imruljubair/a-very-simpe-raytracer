@@ -20,6 +20,7 @@ Jubair:
 Joint:
 	- file output found and intially worked on by Jubair and modified by Justin to fit the code context 
 
+![Alt text](https://raw.githubusercontent.com/imruljubair/a-very-simple-raytracer/master/img45.bmp)
 
 command line arguments:
 
